@@ -50,7 +50,7 @@
                         var streamType = TXTextControl.streamType.PlainText;
 
                         // set the StreamType based on the lower case extension
-                        switch (fileinput.value.split('.').pop().toLowerCase()) {
+                        switch (input.value.split('.').pop().toLowerCase()) {
                             case 'doc':
                                 streamType = TXTextControl.streamType.MSWord;
                                 break;
