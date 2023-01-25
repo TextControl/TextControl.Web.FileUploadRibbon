@@ -1,0 +1,9 @@
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\bin\tx_upload.dll.config
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\bin\tx_upload.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\bin\tx_upload.pdb
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\bin\TXTextControl.Web.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\obj\Debug\tx_upload.csproj.AssemblyReference.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\obj\Debug\tx_upload.csproj.CoreCompileInputs.cache
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\obj\Debug\tx_upload.csproj.CopyComplete
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\obj\Debug\tx_upload.dll
+C:\Users\ZuzannaK\Documents\github\TextControl.Web.FileUploadRibbon\obj\Debug\tx_upload.pdb
